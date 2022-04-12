@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soundwave</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinandan123&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4r5h17-l4kh0714" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HARINANDAN123" /></a> </p>
 
 - 👀 I’m interested in CTF's,Docker,Cybersecurity,Ethical Hacking,Html and Css (If you consider them as programming languages :)),Football,Python etc
 - 🌱 I’m currently learning Ethical Hacking,Docker etc
