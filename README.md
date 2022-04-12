@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soundwave</h1>
+<h1 align="center">Hello 👋, I'm Soundwave :)</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harinandan123&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HARINANDAN123" /></a> </p>
