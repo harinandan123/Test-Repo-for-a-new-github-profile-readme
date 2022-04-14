@@ -19,6 +19,10 @@
 <a href="https://github.com/harinandan123"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"></a>
 <a href="https://stackoverflow.com/users/18399106/soundwave"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" height="40"></a>
 <a href="https://open.spotify.com/user/31roopetxsrt7zw2bzlcqogicvym"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-128.png" width="40" height="40"></a>
+<a href="https://discord.com/invite/NprZSb3vmX"><img src="https://r67.cooltext.com/rendered/cooltext408758883330369.png" width="40" height="40"></a>
+
+
+
 
 
 <h3 align="left">Technologies and tools :-</h3>
