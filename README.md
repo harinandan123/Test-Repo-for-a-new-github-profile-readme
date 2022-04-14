@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&lines=root@soundwave:/usr/bin/bash#" style="display: inline ">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&lines=root@soundwave#intro" style="display: inline ">
   </a>
 </h1>
 
 
 <h1 align="center">Hello 👋, I'm Soundwave :)</h1>
+<p align="center">Thanks for visiting my profile :) </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harinandan123&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-
 
 
 
