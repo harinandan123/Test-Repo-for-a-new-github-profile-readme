@@ -10,6 +10,7 @@
 - 📫 How to reach me: Discord and comment on my repo's! (I will try to reply 😅)
 - Btw, it would be very nice if you could also join my Discord Server 😁
 - ⚡ Fun fact **You are reading this :)**
+- All my contacts are below :)
 
 
 ## 📱 Contact Me Here :-
