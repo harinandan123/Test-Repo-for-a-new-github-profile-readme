@@ -18,7 +18,7 @@
 <a href="https://discord.com/users/904583812816719892/"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40" height="40"></a>
 <a href="https://github.com/harinandan123"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"></a>
 <a href="https://stackoverflow.com/users/18399106/soundwave"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" height="40"></a>
-<a href="https://open.spotify.com/user/31roopetxsrt7zw2bzlcqogicvym"><img src=https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png" width="40" height="40"></a>
+<a href="https://open.spotify.com/user/31roopetxsrt7zw2bzlcqogicvym"><img src="https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png" width="40" height="40"></a>
 
 
 <h3 align="left">Technologies and tools :-</h3>
